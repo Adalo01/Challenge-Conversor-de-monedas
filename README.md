@@ -2,6 +2,9 @@
 
 Desafio del conversor de monedas de Aluracursos.
 
+<img src="https://github.com/Adalo01/Challenge-Conversor-de-monedas/assets/89317158/a0192bc8-085f-4fcb-9c49-19ba0ed146be" width=35% height=35%>
+
+
 ## Ejecutando el programa
 
 Una vez iniciado el programa se plasmará un pequeño menu en donde el usuario podra ingresar al conversor de monedas.
